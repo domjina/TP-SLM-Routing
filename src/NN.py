@@ -10,7 +10,7 @@ from chromadb.config import Settings, DEFAULT_DATABASE, DEFAULT_TENANT
     "model_name": "BioExpert:27B"
     "ip": "http://localhost:11434/"
     "description": ["biology", "micro-organisms", "medicine", "natural science"] # Embedded keywords
-    "model_size_B": 27
+    "model_size_B": [27]
 }
 """
 
