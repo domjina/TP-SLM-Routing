@@ -1,5 +1,5 @@
-# Task Action Planner (TAP)
-- [ ] Create Task Action Planner to break down tasks into smaller tasks (if required)
+# Task Planner (TP)
+- [ ] Create Task Planner to break down tasks into smaller tasks (if required)
 - - [ ] Fine-tune Small Language Model (SLM)
 
 # Classifier
@@ -17,4 +17,4 @@
 
 # Dataset
 - [ ] Create dataset to train classifier for Task Classification
-- [ ] Create dataset to fine-tune TAP:SLM (Task Action Planner: Small Language Model)
+- [ ] Create dataset to fine-tune TP:SLM (Task Planner: Small Language Model)
